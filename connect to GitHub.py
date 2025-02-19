@@ -11,3 +11,7 @@ print("This is for commit 3")
 print("With a little EXTRA")
 
 print("Commit 4 from EskimoJ03")
+
+print("Off, then back on!")
+
+print("Commit 5")
